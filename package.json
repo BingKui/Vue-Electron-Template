@@ -28,8 +28,10 @@
   "homepage": "https://github.com/BingKui/Vue-Electron-Template#readme",
   "dependencies": {
     "axios": "^0.18.0",
+    "v-contextmenu": "^2.8.0",
     "vue": "^2.5.22",
     "vue-router": "^3.0.2",
+    "vue-scrolly": "^0.9.3",
     "vuex": "^3.0.1"
   },
   "devDependencies": {

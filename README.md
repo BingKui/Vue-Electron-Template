@@ -4,10 +4,13 @@ Vue2 + Electron4开发客户端软件的模板。
 
 ## 依赖库
 
-- Vue2
-- Electron4
-- vue-router
-- vuex
+- Vue2：渐进式前端框架
+- Electron4：使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用
+- vue-router：路由管理库
+- vuex：数据状态管理库
+- axios：网络请求库
+- vue-scrolly：滚动条美化库
+- v-contextmenu：右键菜单库
 
 ## 目录结构
 
